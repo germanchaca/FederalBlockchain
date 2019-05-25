@@ -3,7 +3,7 @@
 
 ## Campos de cada estructura
 
-struct Estation {
+    struct Estation {
         string nameStation;
         uint id;
         string description;
@@ -12,8 +12,7 @@ struct Estation {
     struct Product {
         address estationOwner;
         string nameProduct;
-        
-}
+    }
     
 ## Funciones
 
